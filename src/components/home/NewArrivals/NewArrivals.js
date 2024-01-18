@@ -11,6 +11,7 @@ import {
 import SampleNextArrow from "./SampleNextArrow";
 import SamplePrevArrow from "./SamplePrevArrow";
 
+
 const NewArrivals = () => {
   const settings = {
     infinite: true,
@@ -65,7 +66,7 @@ const NewArrivals = () => {
           <Product
             _id="100002"
             img={newArrTwo}
-            productName="Smart Watch"
+            productName="Metal pipe"
             price="250.00"
             color="Black"
             badge={true}
@@ -76,7 +77,7 @@ const NewArrivals = () => {
           <Product
             _id="100003"
             img={newArrThree}
-            productName="cloth Basket"
+            productName="Floor Tile"
             price="80.00"
             color="Mixed"
             badge={true}
@@ -87,7 +88,7 @@ const NewArrivals = () => {
           <Product
             _id="100004"
             img={newArrFour}
-            productName="Funny toys for babies"
+            productName="Trowel"
             price="60.00"
             color="Mixed"
             badge={false}
@@ -98,7 +99,7 @@ const NewArrivals = () => {
           <Product
             _id="100005"
             img={newArrTwo}
-            productName="Funny toys for babies"
+            productName="Trowel"
             price="60.00"
             color="Mixed"
             badge={false}

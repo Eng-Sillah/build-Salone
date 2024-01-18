@@ -8,6 +8,7 @@ import {
   spfFour,
 } from "../../../assets/images/index";
 
+
 const SpecialOffers = () => {
   return (
     <div className="w-full pb-20">
