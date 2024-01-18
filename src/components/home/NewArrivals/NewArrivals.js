@@ -55,7 +55,7 @@ const NewArrivals = () => {
           <Product
             _id="100001"
             img={newArrOne}
-            productName="Round Table Clock"
+            productName="Clay Bricks"
             price="44.00"
             color="Black"
             badge={true}
@@ -77,7 +77,7 @@ const NewArrivals = () => {
           <Product
             _id="100003"
             img={newArrThree}
-            productName="Floor Tile"
+            productName="Cement"
             price="80.00"
             color="Mixed"
             badge={true}
@@ -88,7 +88,7 @@ const NewArrivals = () => {
           <Product
             _id="100004"
             img={newArrFour}
-            productName="Trowel"
+            productName="Floor Tile"
             price="60.00"
             color="Mixed"
             badge={false}

@@ -17,7 +17,7 @@ const SpecialOffers = () => {
         <Product
           _id="1101"
           img={spfOne}
-          productName="Cap for Boys"
+          productName="Toile Seat"
           price="35.00"
           color="Blank and White"
           badge={true}
@@ -26,7 +26,7 @@ const SpecialOffers = () => {
         <Product
           _id="1102"
           img={spfTwo}
-          productName="Tea Table"
+          productName="Balustrade Pillar"
           price="180.00"
           color="Gray"
           badge={true}
@@ -35,7 +35,7 @@ const SpecialOffers = () => {
         <Product
           _id="1103"
           img={spfThree}
-          productName="Headphones"
+          productName="3D Wood metal"
           price="25.00"
           color="Mixed"
           badge={true}
@@ -44,7 +44,7 @@ const SpecialOffers = () => {
         <Product
           _id="1104"
           img={spfFour}
-          productName="Sun glasses"
+          productName="Wireless lock"
           price="220.00"
           color="Black"
           badge={true}
