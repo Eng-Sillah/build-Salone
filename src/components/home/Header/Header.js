@@ -33,8 +33,10 @@ const Header = () => {
           <Link to="/">
             <div>
               {/* <Image className="w-20 object-cover" imgSrc={logo} /> */} 
-              <h1 className="text-[2rem] font-bold">Build-Salone</h1>
+              <h1 className="text-[2rem] font-bold">Let&apos;s Build-Salon</h1>
+              
             </div>
+            <hr className="border-8 border-amber-500 hover:border-purple-500 drop-shadow-xl" />
           </Link>
           <div>
             {showMenu && (
@@ -71,11 +73,13 @@ const Header = () => {
                   className="w-[80%] h-full relative"
                 >
                   <div className="w-full h-full bg-primeColor p-6">
-                    <img
+                    {/* <img
                       className="w-28 mb-6"
                       src={logoLight}
                       alt="logoLight"
-                    />
+                    /> */}
+                    <h1 className="text-[2rem] font-bold">Let&apos;s Build-Salon</h1>
+                    <hr className="border-8 border-amber-500 hover:border-purple-500 drop-shadow-xl" />
                     <ul className="text-gray-200 flex flex-col gap-2">
                       {navBarList.map((item) => (
                         <li
